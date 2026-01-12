@@ -10,5 +10,5 @@ if (talentScore < 50) {
 		"Wenn du schnell bist, kannst du dir die Libero-Position überlegen.",
 	);
 } else {
-	console.log("Du wirst im Volleyball nicht glücklich werden.");
+	console.log("Du wirst im Volleyball nicht glücklich werden!");
 }
