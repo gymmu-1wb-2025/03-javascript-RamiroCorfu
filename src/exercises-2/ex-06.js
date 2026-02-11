@@ -5,3 +5,4 @@ function sumupto(n) {
 	}
 	return sum;
 }
+sumupto(10);
