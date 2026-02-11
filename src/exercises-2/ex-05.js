@@ -3,4 +3,4 @@ function printnumbers(n) {
 		console.log(i);
 	}
 }
-printnumbers(5);
+printnumbers(10);
